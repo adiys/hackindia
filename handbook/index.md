@@ -20,19 +20,31 @@ features:
   - icon: 🚀
     title: Start Here
     details: Register, form your team, choose your event, and understand the build process.
+    link: /starthere
+    linkText: Open guide →
   - icon: 🤖
     title: AI & AI Agents
     details: Build with GenAI, LLMs, agents, automation, and intelligent applications.
+    link: /tracks/index
+    linkText: Explore track →
   - icon: ⛓️
     title: Web3 & Blockchain
     details: Explore decentralized applications, protocols, identity, and digital ownership.
+    link: /tracks/index
+    linkText: Explore track →
   - icon: 🛡️
     title: Cybersecurity
     details: Solve challenges around privacy, identity, fraud, threats, and secure systems.
+    link: /tracks/index
+    linkText: Explore track →
   - icon: 💡
     title: Open Innovation
     details: Build a meaningful solution beyond a predefined problem statement.
+    link: /tracks/index
+    linkText: Explore track →
   - icon: 🏆
     title: Submission & Judging
     details: Prepare your prototype, demo, repository, pitch, and final submission.
+    link: /project-submission/index
+    linkText: View submission guide →
 ---
