@@ -21,6 +21,7 @@ export default defineConfig({
       { text: "Tracks", link: "/tracks/index" },
       { text: "Problem Statements", link: "/problem-statement/index" },
       { text: "Submission", link: "/project-submission/index" },
+      { text: "Team Guidelines", link: "/team-guidelines/index" },
       { text: "Judging", link: "/judging-criteria/index" },
       { text: "Resources", link: "/resources/index" },
     ],
@@ -39,7 +40,7 @@ export default defineConfig({
       },
       {
         text: "Project Submission 📦",
-        items: [{ text: "Submission Guide", link: "/project-submission/index" }]
+        items: [{ text: "Submission Guide", link: "/project-submission/index" }, { text: "Team Guidelines", link: "/team-guidelines/index" }]
       },
       {
         text: "Judging Criteria 🏆",
