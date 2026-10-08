@@ -4,7 +4,7 @@ export default defineConfig({
   title: "HackIndia Handbook",
   description: "HackIndia 2026–27 participant handbook",
   appearance: "dark",
-  base: "/handbook/",
+  base: "/hackindia/",
   cleanUrls: true,
   head: [
     ["script", { async: "", src: "https://www.googletagmanager.com/gtag/js?id=G-29NMW93BKC" }],
