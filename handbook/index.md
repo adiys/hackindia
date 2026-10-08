@@ -68,4 +68,5 @@ hero:
   <a href="/hackindia/project-submission/index">📦 Project Submission</a>
   <a href="/hackindia/judging-criteria/index">🏆 Judging Criteria</a>
   <a href="/hackindia/resources/index">📚 Resources</a>
+  <a href="/hackindia/team-guidelines/index">👥 Team Guidelines</a>
 </div>
