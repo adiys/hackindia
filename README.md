@@ -1,5 +1,11 @@
 # HackIndia 2026–27 Handbook
 
+## 📖 Read the Handbook Online
+
+**Live Handbook:** https://adiys.github.io/hackindia/
+
+Anyone can open the handbook directly in a browser using the link above.
+
 Participant handbook for the HackIndia 2026–27 hackathon circuit.
 
 ## Development
